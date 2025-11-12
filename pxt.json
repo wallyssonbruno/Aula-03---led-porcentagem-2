@@ -1,5 +1,5 @@
 {
-    "name": "Aula 03 - LED (Porcentagem) (2)",
+    "name": "Aula 03 - Porcentagem (Intensidade LED)",
     "description": "",
     "dependencies": {
         "core": "*",
